@@ -21,7 +21,7 @@
 
 <p align="center"><b id="Status">🚀 STATUS DO PROJETO 🚀</b> </p>
 <p align="center"> <b>🌀 <i>Programando...</i> 🌀 </b> </p>
-<p align="center"> <b>⏳ ■■■■■■■■■■■□□□⏳</b> </p>
+<p align="center"> <b>⏳ ■■■■■■■■■■■□□□ ⏳</b> </p>
 
 ****
 
@@ -33,10 +33,12 @@
 - [Status do Projeto](#Status)
 - [Demonstração](#Titulo)
 - [Funcionalidades]()
-- [Pré-requisitos](#Pre-Requisitos)
 - [Dependências]()
 - [Como rodar a aplicação]()
-- 
+  - [Instalação]()
+  - [Execução]()
+- [Tecnologias Utilizadas]()
+- [Autor]()
 
 ****
 
@@ -66,3 +68,48 @@
 ****
 
 #### 🔌 Dependências
+
+> Por ora, não há dependências externas.
+
+**** 
+
+#### 📲 Como rodar a aplicação?
+
+<ol><b>- 📥 INSTALAÇÃO</b></ol> 
+
+- Para ter acesso a aplicação, você pode obtê-lo copiando os códigos e os adaptando à sua máquina, no entando, é mais aconselhável utilizar determinados comandos do git para clonar o repositório e todo o histórico de modificações do projeto. Para isso, em seu terminal, digite o seguinte código e pressione a tecla `enter` para efetuar o procedimento:
+
+````
+$ git clone https://github.com/RodrigoMoreiraDaSilva/Jogo-Da-Cobrinha.git
+````
+
+> Após esse procedimento, o git irá clonar o repositório remoto em sua máquina local.
+
+
+<ol> <b>- 🔄 EXECUÇÃO</b> </ol>
+
+- Com o repositório clonado em sua máquina local, você pode conferir se o joguinho esta funcionando corretamente abrindo o arquivo `index.html` em seu navegador de preferência. Também pode abrir o `diretório` em seu IDE e, desse modo, realizar as adaptações e modificações necessárias. 
+
+****
+
+#### 🛠️ Tecnologias Utilizadas
+
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=3b9393)](https://devdocs.io/css/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=f7023b)](https://devdocs.io/html/)
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=60245a)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+****
+
+#### 👨🏾‍💻 AUTOR
+<br>
+<img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/78985382?s=460&u=421fd89ba15c63b87559a53804a6b850f5890575&v=4" width="100" alt="imagem de perfil de Rodrigo Moreira">
+<h5>Rodrigo Moreira 🌠</h5>
+<p>🌐Desenvolvido por <b> <i>Rodrigo Moreira da Silva</b> </i> 👨🏽‍💼❤️
+  
+> Em conjunto com o Bootcamp de `Html web developer` da [Digital Innovation One](https://digitalinnovation.one).
+
+[![Badge Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RodrogaDev)
+[![Badge Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-m0reira-da-silva/)
+![Badge Gmail](https://img.shields.io/badge/rodrigomoreira.stud@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+****
